@@ -46,14 +46,7 @@
 
 		// MODALS DOWNLOAD RESUME
 		$("#btn-down-resume").click(function(){
-			
-			// $.ajax({
-			//     url : "<?php echo base_url(); ?>",
-			//     type : "GET",
-			//     success : function(data) {
-			//         $("#iframeID").attr('src', '<?php echo base_url();?>public/files/JOHNMARKABRIL_RESUME.docx');
-			//     }
-			// });
+			location.href="<?php base_url(); ?>public/files/JOHNMARKABRIL_RESUME.docx";
 		});
 	})
 </script>

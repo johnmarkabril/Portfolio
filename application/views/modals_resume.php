@@ -9,7 +9,7 @@
                     <span aria-hidden="true">&times;</span>
                 </button>
                 <h4 class="modal-title" id="myModalLabel"><center><strong>RESUME</strong></center></h4>
-                <a class="btn btn-info btn-lg btn-block" id="btn-down-resume"><i class="fa fa-download" aria-hidden="true"></i> DOWNLOAD JOHNMARK'S RESUME</a>
+                <a class="btn btn-info btn-lg btn-block" id="btn-down-resume"><i class="fa fa-download" aria-hidden="true"></i>  DOWNLOAD</a>
             </div>
         </div>
     </div>
