@@ -1,0 +1,71 @@
+/* YOUR CUSTOM STYLES */
+
+body{
+	background-color: #E9EBEE;
+}
+
+.text-align-left {
+	text-align: left;
+}
+
+.height-card-block {
+	height: 360px;
+}
+
+.margin-zero {
+	margin: 0px;
+}
+
+.cont-col-height {
+	height: 280px;
+}
+
+.cont-col-bg-ht {
+	background-color:#3c3e35;
+	height:65px;
+}
+
+.pad-bot-ten {
+	padding-bottom: 10px;
+}
+
+.nav-top-cl {
+	background-color:#3c3e35;
+}
+
+.foot-bg-mt {
+	background-color:#3c3e35;
+	margin-top: 0px;
+}
+
+.text-align-center {
+	text-align: center;
+}
+
+.text-bl-cl {
+	color:#2b76c0;
+}
+
+.disp-no {
+	display: none;
+}
+
+.set-width-oe {
+	width:180px;
+}
+
+.bg-bl-gr {
+	background-color: #2bbbad;
+	height:65px;
+}
+
+.bg-bl-vi {
+	background-color: #aa66cc;
+	height:65px;
+}
+
+.bg-bl-li {
+	background-color: #33b5e5;
+	height:65px;
+}
+
