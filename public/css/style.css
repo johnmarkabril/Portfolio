@@ -21,7 +21,7 @@ body{
 }
 
 .cont-col-bg-ht {
-	background-color:#3c3e35;
+	background-color:#495567;
 	height:65px;
 }
 
@@ -30,11 +30,11 @@ body{
 }
 
 .nav-top-cl {
-	background-color:#3c3e35;
+	background-color:#495567;
 }
 
 .foot-bg-mt {
-	background-color:#3c3e35;
+	background-color:#495567;
 	margin-top: 0px;
 }
 
@@ -69,3 +69,10 @@ body{
 	height:65px;
 }
 
+.cursor-default {
+	cursor: default;
+}
+
+.foot-bg-f2 {
+	background-color:#3c4655;
+}

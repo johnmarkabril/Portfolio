@@ -4,7 +4,7 @@
                 <a href="https://twitter.com/JohnmarkAbril" class="btn btn-info-outline waves-effect btn-sm"><i class="fa fa-twitter"></i></a>
                 <a href="" class="btn btn-danger-outline waves-effect btn-sm"><i class="fa fa-google-plus"></i></a>
             </div>
-            <div class="footer-copyright text-center rgba-black-light">
+            <div class="footer-copyright text-center foot-bg-f2">
                 <div class="container-fluid">
                     <div>© 2016 Copyright: <a href="#"> JOHNMARKABRIL </a>
                     </div>

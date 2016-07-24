@@ -1,6 +1,6 @@
 <!-- RESUME MODALS -->
 <div class="modal fade" id="RESUME" tabindex="-1" role="dialog" aria-labelledby="RESUMEMODALS" aria-hidden="true">
-    <div class="modal-dialog modal-lg" role="document">
+    <div class="modal-dialog modal-sm" role="document">
         <!--Content-->
         <div class="modal-content">
             <!--Header-->

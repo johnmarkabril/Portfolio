@@ -27,9 +27,12 @@
                                     <div class="mdb-lightbox">
                                         <figure class="col-md-6">
                                             <center>HOTEL INFORMATION SYSTEM</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/none.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/none.jpg" class="img-fluid" alt="">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                     </div>
                                 </div>
@@ -48,40 +51,58 @@
                                     <div class="mdb-lightbox">
                                         <figure class="col-md-4">
                                             <center>CUSTOMIZE FTHS ID</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/FTHS_ID.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/FTHS_ID.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                         <figure class="col-md-4">
                                             <center>BUSINESS CARD</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/BC_DELL.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                        <img src="<?php echo base_url(); ?>public/img/BC_DELL.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                         <figure class="col-md-4">
                                             <center>PHOTO MANIPULATION</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/IM_WING.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/IM_WING.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
 
                                         <figure class="col-md-4">
                                             <center>QUOTES</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/quotes.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/quotes.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                         <figure class="col-md-4">
                                             <center>PHOTO DISPERSION</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/IM_DIS_DR.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/IM_DIS_DR.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                         <figure class="col-md-4">
                                             <center>PHOTO DISPERSION</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/IM_DR.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/IM_DR.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                     </div>
                                 </div>
@@ -135,21 +156,30 @@
                                     <div class="mdb-lightbox">
                                         <figure class="col-md-6">
                                             <center>CD-R KING POINT OF SALE</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/cdrkingpos.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/cdrkingpos.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                         <figure class="col-md-6">
                                             <center>CABS PROJECT</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/cabsproject.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/cabsproject.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                         <figure class="col-md-6">
                                             <center>BARANGAY MIS</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/barangaymis.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/barangaymis.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                     </div>
                                 </div>
@@ -168,15 +198,21 @@
                                     <div class="mdb-lightbox">
                                         <figure class="col-md-6">
                                             <center>MOVIE THEATER</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/movietheater.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/movietheater.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                         <figure class="col-md-6">
                                             <center>BARANGAY ATTENDANCE MONITORING</center>
-                                            <a href="#" data-size="1600x1067">
-                                                <img src="<?php echo base_url(); ?>public/img/barangaymismonitor.jpg" class="img-fluid">
-                                            </a>
+                                            <div class="card">
+                                                <div class="view overlay hm-white-slight">
+                                                    <img src="<?php echo base_url(); ?>public/img/barangaymismonitor.jpg" class="img-fluid">
+                                                    <div class="mask cursor-default"></div>
+                                                </div>
+                                            </div>
                                         </figure>
                                     </div>
                                 </div>
